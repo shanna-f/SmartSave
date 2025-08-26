@@ -139,7 +139,7 @@ We were a team of 7 and here's what we worked on.
 
 ---
 
-## Outcomes & Impact  
+## Outcomes 
 
 - 📋 Built a complete BA toolkit (Business Case → SRS)  
 - 🔗 Ensured end-to-end traceability from business need → system design  

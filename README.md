@@ -75,7 +75,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 **📑 Documentation & Productivity**  
 - Word / Google Docs – documentation  
-- Excel / Google Sheets – tracking  
+- Excel / Google Sheets – documentation & tracking  
 
 **🎨 Visualization & Design**  
 - Draw.io – process flows, use case diagrams  

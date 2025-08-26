@@ -1,6 +1,6 @@
 # 🧩 Team Case Study: SmartSave Digital Savings & Budgeting App  
 
-## 📌 Project Context  
+## Project Context  
 This team project ran for **6 weeks** and was hosted by *The Business Analysis Circle*.  
 
 ### 🎯 Objective  
@@ -17,7 +17,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 ---
 
-## 📅 What We Did Each Week  
+## What We Did Each Week  
 
 ### Week 1 – Kickoff & Foundation  
 - Team kickoff & introductions  
@@ -51,7 +51,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 ---
 
-## 💡 My Approach  
+## My Approach  
 
 - 📊 **Tracking**: Built an Excel status tracker (deliverables, due dates, owners, progress).  
 - 📚 **Research**: Explored templates & created custom docs (URD, SRS).  
@@ -61,7 +61,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 ---
 
-## 🛠 Tools Used  
+## Tools Used  
 
 **💬 Collaboration & Communication**  
 - WhatsApp – team chat  
@@ -84,7 +84,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 ---
 
-## 📂 Key Deliverables  
+## Key Deliverables  
 
 - 📊 Business Case, Stakeholder Register & RACI  
 - 📝 BRD, Process Flows, User Journey Maps & Gap Analysis  
@@ -93,7 +93,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 ---
 
-## 🚀 Outcomes & Impact  
+## Outcomes & Impact  
 
 - 📋 Built a complete BA toolkit (Business Case → SRS)  
 - 🔗 Ensured end-to-end traceability from business need → system design  
@@ -102,7 +102,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 ---
 
-## 🧠 Key Learnings & Reflections  
+## Key Learnings & Reflections  
 
 - 🔗 **Traceability**: Confidence that no requirement fell through the cracks.  
 - 🖼 **Visuals**: Journey maps & mockups became powerful discussion starters.  

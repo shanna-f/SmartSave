@@ -68,7 +68,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 - Google Meet – virtual meetings  
 
 **📂 File Sharing & Storage**  
-- Google Drive – shared repo  
+- Google Drive – shared documents  
 
 **📝 Meeting Support**  
 - Otter.ai & Firefly – meeting note-takers  

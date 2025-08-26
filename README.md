@@ -19,6 +19,8 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 ## What We Did Each Week  
 
+We were a team of 7 and here's what we worked on.
+
 ### Week 1 – Kickoff & Foundation  
 - Team kickoff & introductions  
 - Set up WhatsApp group + Google Drive  
@@ -38,7 +40,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 <img width="1975" height="1327" alt="image" src="https://github.com/user-attachments/assets/39d217c5-f0cc-445c-8251-33fd00247f5d" />
 
-*Figure 2: Current State Process FLow*
+*Figure 2: Current State Process Flow*
 
 <img width="1791" height="994" alt="image" src="https://github.com/user-attachments/assets/74f6d698-83bd-4d8d-8183-fb80992d03fe" />
 
@@ -54,11 +56,11 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 <img width="1784" height="1377" alt="image" src="https://github.com/user-attachments/assets/a55c4c99-d901-4c41-a7ca-a3eb1d8ed444" />
 
-*Figure 4: Future State Process Flow
+*Figure 4: Future State Process Flow*
 
 <img width="1507" height="992" alt="image" src="https://github.com/user-attachments/assets/d4a39566-a3f2-4b9b-a917-523b13083074" />
 
-*Figure 5: Sample of User Requirements
+*Figure 5: Sample of User Requirements*
 
 
 ### Week 5 – System Definition  
@@ -70,7 +72,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 <img width="1435" height="1251" alt="image" src="https://github.com/user-attachments/assets/8f5fa663-b866-4cf6-962a-576b7bc1106a" />
 
-*Figure 6: PArtial example of Use Case*
+*Figure 6: Use Case Partial Example*
 
 <img width="1971" height="1107" alt="image" src="https://github.com/user-attachments/assets/1f950ac5-d57a-44b4-98c3-b8e9b309a3c6" />
 

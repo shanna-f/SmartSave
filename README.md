@@ -21,7 +21,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 We were a team of 7 and here's what we worked on.
 
-### Week 1 – Kickoff & Foundation  
+### Week 1: Kickoff & Foundation  
 - Team kickoff & introductions  
 - Set up WhatsApp group + Google Drive  
 - Understood project scope, goals & stakeholders  
@@ -32,7 +32,7 @@ We were a team of 7 and here's what we worked on.
 *Figure 1: RACI Matrix*
   
 
-### Week 2 – Elicitation & Current State  
+### Week 2: Elicitation & Current State  
 - Conducted elicitation session with Product Owner  
 - Analyzed high-level business requirements  
 - Mapped current processes & user journeys (pain points)  
@@ -47,7 +47,7 @@ We were a team of 7 and here's what we worked on.
 *Figure 3: Current State User Journey Map*
 
 
-### Week 3 & 4 – Future State & Requirements  
+### Week 3 & 4: Future State & Requirements  
 - Defined future process flows & user journeys  
 - Completed Gap Analysis  
 - Broke down high-level business requirements → detailed requirements  
@@ -63,7 +63,7 @@ We were a team of 7 and here's what we worked on.
 *Figure 5: Sample of User Requirements*
 
 
-### Week 5 – System Definition  
+### Week 5: System Definition  
 - Converted URD → User Stories with acceptance criteria  
 - Created SRS with mapped requirements  
 - Built traceability from business → user → system requirements  
@@ -83,7 +83,7 @@ We were a team of 7 and here's what we worked on.
 *Figure 8: Requirement Traceability Matrix Sample*
 
 
-### Week 6 – Final Wrap-up  
+### Week 6: Final Wrap-up  
 - Presented final deliverables & outcomes  
 - Reflected on lessons learned as a team  
 

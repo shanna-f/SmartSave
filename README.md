@@ -23,7 +23,12 @@ Many young professionals struggle with managing money due to inconsistent saving
 - Team kickoff & introductions  
 - Set up WhatsApp group + Google Drive  
 - Understood project scope, goals & stakeholders  
-- ✅ Deliverables: Business Case, Stakeholder Register  
+- ✅ Deliverables: Business Case, Stakeholder Register, RACI Matrix
+
+<img width="1899" height="783" alt="image" src="https://github.com/user-attachments/assets/393fb353-5184-497e-8568-97182e748db7" />
+
+*Figure 1: RACI Matrix*
+  
 
 ### Week 2 – Elicitation & Current State  
 - Conducted elicitation session with Product Owner  

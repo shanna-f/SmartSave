@@ -111,4 +111,4 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 ---
 
-✨ *SmartSave was more than just a case study — it was a hands-on experience applying the full range of BA skills, from business analysis foundations to system definition and traceability.*  
+✨ *SmartSave was more than just a case study. It was a hands-on experience applying the full range of BA skills, from business analysis foundations to system definition and traceability.*  

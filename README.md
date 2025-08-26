@@ -132,7 +132,7 @@ We were a team of 7 and here's what we worked on.
 
 ## Key Deliverables  
 
-- 📊 Business Case, Stakeholder Register & RACI  
+- 📊 Business Case, Stakeholder Register & [RACI](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/SmartSave%20RACI%20Matrix.png)  
 - 📝 BRD, Process Flows, User Journey Maps & Gap Analysis  
 - 🔎 URD, Use Case Diagram, User Story Document  
 - 💻 SRS, Mockups, Requirements Traceability Matrix  

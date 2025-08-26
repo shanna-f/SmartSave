@@ -34,21 +34,52 @@ Many young professionals struggle with managing money due to inconsistent saving
 - Conducted elicitation session with Product Owner  
 - Analyzed high-level business requirements  
 - Mapped current processes & user journeys (pain points)  
-- ✅ Deliverables: BRD, Current State Process Flow  
+- ✅ Deliverables: BRD, Current State Process Flow & User Journey
+
+<img width="1975" height="1327" alt="image" src="https://github.com/user-attachments/assets/39d217c5-f0cc-445c-8251-33fd00247f5d" />
+
+*Figure 2: Current State Process FLow*
+
+<img width="1791" height="994" alt="image" src="https://github.com/user-attachments/assets/74f6d698-83bd-4d8d-8183-fb80992d03fe" />
+
+*Figure 3: Current State User Journey Map*
+
 
 ### Week 3 & 4 – Future State & Requirements  
 - Defined future process flows & user journeys  
 - Completed Gap Analysis  
 - Broke down high-level business requirements → detailed requirements  
 - Built personas to understand users  
-- ✅ Deliverables: URD, Future Process Flow, Future Journey Map, Gap Analysis, Use Case Diagram  
+- ✅ Deliverables: URD, Future Process Flow, Future Journey Map, Gap Analysis, Use Case Diagram
+
+<img width="1784" height="1377" alt="image" src="https://github.com/user-attachments/assets/a55c4c99-d901-4c41-a7ca-a3eb1d8ed444" />
+
+*Figure 4: Future State Process Flow
+
+<img width="1507" height="992" alt="image" src="https://github.com/user-attachments/assets/d4a39566-a3f2-4b9b-a917-523b13083074" />
+
+*Figure 5: Sample of User Requirements
+
 
 ### Week 5 – System Definition  
 - Converted URD → User Stories with acceptance criteria  
 - Created SRS with mapped requirements  
 - Built traceability from business → user → system requirements  
 - Defined steps for major use cases (main & alternate flows)  
-- ✅ Deliverables: User Story Doc, SRS, RTM, Wireframes  
+- ✅ Deliverables: User Story Doc, SRS, RTM, Mockups
+
+<img width="1435" height="1251" alt="image" src="https://github.com/user-attachments/assets/8f5fa663-b866-4cf6-962a-576b7bc1106a" />
+
+*Figure 6: PArtial example of Use Case*
+
+<img width="1971" height="1107" alt="image" src="https://github.com/user-attachments/assets/1f950ac5-d57a-44b4-98c3-b8e9b309a3c6" />
+
+*Figure 7: Screen Mockups*
+
+<img width="2783" height="1208" alt="image" src="https://github.com/user-attachments/assets/827f7aaf-9b76-4565-83ad-da51a4ca29a1" />
+
+*Figure 8: Requirement Traceability Matrix Sample*
+
 
 ### Week 6 – Final Wrap-up  
 - Presented final deliverables & outcomes  

@@ -52,7 +52,7 @@ We were a team of 7 and here's what we worked on.
 - Completed Gap Analysis  
 - Broke down high-level business requirements → detailed requirements  
 - Built personas to understand users  
-- ✅ Deliverables: URD, Future Process Flow, Future Journey Map, Gap Analysis, Use Case Diagram
+- ✅ Deliverables: URD, Future Process Flow & User Journey, Gap Analysis, Use Case Diagram
 
 <img width="1784" height="1377" alt="image" src="https://github.com/user-attachments/assets/a55c4c99-d901-4c41-a7ca-a3eb1d8ed444" />
 

@@ -135,7 +135,7 @@ We were a team of 7 and here's what we worked on.
 - 📊 Business Case, Stakeholder Register & [RACI](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/SmartSave%20RACI%20Matrix.png)  
 - 📝 BRD, [Process Flows](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/SmartSave%20Process%20Flows-v5.pdf), [Current State User Journey](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/User%20Journey%20Map%20Current.png), [Future State Journey Map](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/User%20Journey%20Map%20Future.png) & Gap Analysis  
 - 🔎 URD, Use Case Diagram, User Story Document  
-- 💻 SRS, Mockups, Requirements Traceability Matrix  
+- 💻 SRS, [Mockups](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/Mockups.png), Requirements Traceability Matrix  
 
 ---
 

@@ -83,6 +83,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 - PowerPoint – presentation deck  
 
 <img width="801" height="670" alt="image" src="https://github.com/user-attachments/assets/79bc2146-d76e-49fa-950f-3d5003811389" />
+
 *Figure x: Tools Used*
 
 ---

@@ -143,7 +143,7 @@ We were a team of 7 and here's what we worked on.
 
 - 📋 Built a complete BA toolkit (Business Case → SRS)  
 - 🔗 Ensured end-to-end traceability from business need → system design  
-- 👥 Kept the user at the center (journey maps, personas, wireframes)  
+- 👥 Kept the user at the center (journey maps, personas, mockups)  
 - 🌐 Strengthened collaboration in a distributed team  
 
 ---

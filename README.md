@@ -97,6 +97,10 @@ We were a team of 7 and here's what we worked on.
 - 💡 **AI Support**: Leveraged ChatGPT to speed up template creation & analysis.  
 - 📌 **Preparation**: Planned agendas, set objectives for meetings, and facilitated discussions.  
 
+<img width="1543" height="895" alt="image" src="https://github.com/user-attachments/assets/84bb5d47-6a50-486f-b397-97cb17dc73fa" />
+
+*Figure 9: Deliverables Comparison Research*
+
 ---
 
 ## Tools Used  

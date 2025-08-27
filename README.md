@@ -163,7 +163,7 @@ Our team worked on the following each week.
 
 ## 8. Credit  
 
-Thanks to my fellow team meembers:
+🙌 Thanks to my fellow team meembers:
 - Ayomide Edu
 - Chisom Ezekwem
 - Doris K.
@@ -171,4 +171,4 @@ Thanks to my fellow team meembers:
 - Nonye Mbata
 - Omolara Olafajo
 
-Thanks to our host and product owner: Dominica Izunobi
+💐 Thanks to our host and product owner: Dominica Izunobi

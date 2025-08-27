@@ -22,7 +22,7 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 ## 2. What We Did Each Week  
 
-Our team worked on the following each week.
+Our team worked on the following:
 
 ### Week 1: Kickoff & Foundation  
 - Team kickoff & introductions  

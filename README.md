@@ -1,7 +1,9 @@
 # 🧩 Team Case Study: SmartSave Digital Savings & Budgeting App  
 
-## Project Context  
-This team project ran for **6 weeks** and was hosted by *The Business Analysis Circle*.  
+## 1. Project Context  
+This team project ran for **6 weeks** from July 12 - Aug 23, 2005.
+It was hosted by *The Business Analysis Circle*.  
+Our team was made up of 7 people in multiple countries.
 
 ### 🎯 Objective  
 Design the business and functional requirements for a mobile/web app that helps young professionals track spending, set budgeting goals, and save money automatically using smart **AI-driven insights**.  
@@ -17,9 +19,9 @@ Many young professionals struggle with managing money due to inconsistent saving
 
 ---
 
-## What We Did Each Week  
+## 2. What We Did Each Week  
 
-We were a team of 7 and here's what we worked on.
+Our team worked on the following each week.
 
 ### Week 1: Kickoff & Foundation  
 - Team kickoff & introductions  
@@ -89,7 +91,7 @@ We were a team of 7 and here's what we worked on.
 
 ---
 
-## My Approach  
+## 3. My Approach  
 
 - 📊 **Tracking**: Built an Excel status tracker (deliverables, due dates, owners, progress).  
 - 📚 **Research**: Explored templates & created custom docs (URD, SRS).  
@@ -103,7 +105,7 @@ We were a team of 7 and here's what we worked on.
 
 ---
 
-## Tools Used  
+## 4. Tools Used  
 
 **💬 Collaboration & Communication**  
 - WhatsApp – team chat  
@@ -130,7 +132,7 @@ We were a team of 7 and here's what we worked on.
 
 ---
 
-## Key Deliverables  
+## 5. Key Deliverables  
 
 - 📊 Business Case, Stakeholder Register & [RACI](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/SmartSave%20RACI%20Matrix.png)  
 - 📝 BRD, [Process Flows](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/SmartSave%20Process%20Flows-v5.pdf), [Current State User Journey](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/User%20Journey%20Map%20Current.png), [Future State Journey Map](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/User%20Journey%20Map%20Future.png) & Gap Analysis  
@@ -139,7 +141,7 @@ We were a team of 7 and here's what we worked on.
 
 ---
 
-## Outcomes 
+## 6. Outcomes 
 
 - 📋 Built a complete BA toolkit (Business Case → SRS)  
 - 🔗 Ensured end-to-end traceability from business need → system design  
@@ -148,7 +150,7 @@ We were a team of 7 and here's what we worked on.
 
 ---
 
-## Key Learnings & Reflections  
+## 7. Key Learnings & Reflections  
 
 - 🔗 **Traceability**: Confidence that no requirement fell through the cracks.  
 - 🖼 **Visuals**: Journey maps & mockups became powerful discussion starters.  

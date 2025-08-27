@@ -157,8 +157,6 @@ Our team worked on the following each week.
 - 📌 **Organization**: Agendas, facilitators, and trackers made teamwork smoother.  
 - 💡 **Business Case Insight**: Learned the importance of costs, benefits, and financial analysis in decision-making.  
 
----
-
 ✨ *SmartSave was more than just a case study. It was a hands-on experience applying the full range of BA skills, from business analysis foundations to system definition and traceability.*  
 
 ---

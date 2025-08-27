@@ -167,4 +167,5 @@ Our team worked on the following:
 🙌 Thanks to my fellow team members:
 - Ayomide Edu, Chisom Ezekwem, Doris K., Eunice Henry-omaduvie, Nonye Mbata, Omolara Olafajo
 
-💐 Thanks to our host and product owner: Dominica Izunobi
+💐 Thanks to our host and product owner: 
+- Dominica Izunobi

@@ -1,7 +1,7 @@
 # 🧩 Team Case Study: SmartSave Digital Savings & Budgeting App  
 
 ## 1. Project Context  
-This team project ran for **6 weeks** from July 12 - Aug 23, 2005.
+This team project ran for **6 weeks** from July 12 - Aug 23, 2025.
 It was hosted by *The Business Analysis Circle*.  
 
 Our team was made up of 7 people in multiple countries, and we were all playing business analyst roles.

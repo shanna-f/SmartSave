@@ -3,7 +3,7 @@
 ## 1. Project Context  
 This team project ran for **6 weeks** from July 12 - Aug 23, 2005.
 It was hosted by *The Business Analysis Circle*.  
-Our team was made up of 7 people in multiple countries.
+Our team was made up of 7 people in multiple countries, and we were all playing business analyst roles.
 
 ### 🎯 Objective  
 Design the business and functional requirements for a mobile/web app that helps young professionals track spending, set budgeting goals, and save money automatically using smart **AI-driven insights**.  

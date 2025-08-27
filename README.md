@@ -132,7 +132,7 @@ Our team worked on the following each week.
 
 ---
 
-## 5. Key Deliverables  
+## 5. Key Team Deliverables  
 
 - 📊 Business Case, Stakeholder Register & [RACI](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/SmartSave%20RACI%20Matrix.png)  
 - 📝 BRD, [Process Flows](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/SmartSave%20Process%20Flows-v5.pdf), [Current State User Journey](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/User%20Journey%20Map%20Current.png), [Future State Journey Map](https://github.com/shanna-f/Team-Case-Study-SmartSave/blob/main/User%20Journey%20Map%20Future.png) & Gap Analysis  
@@ -160,3 +160,15 @@ Our team worked on the following each week.
 ---
 
 ✨ *SmartSave was more than just a case study. It was a hands-on experience applying the full range of BA skills, from business analysis foundations to system definition and traceability.*  
+
+---
+
+## 8. Credit  
+
+Giving thanks and credit to my fellow team meembers:
+- Ayomide Edu
+- Chisom Ezekwem
+- Doris K.
+- Eunice Henry-omaduvie
+- Nonye Mbata
+- Omolara Olafajo

@@ -116,7 +116,7 @@ Our team worked on the following:
 - Google Drive – shared documents  
 
 **📝 Meeting Support**  
-- Otter.ai & Firefly – meeting note-takers  
+- Otter.ai – meeting note-taker
 
 **📑 Documentation & Productivity**  
 - Word / Google Docs – documentation  
@@ -126,10 +126,6 @@ Our team worked on the following:
 - Draw.io – process flows, use case diagrams  
 - Canva – user journey maps, screen mockups  
 - PowerPoint – presentation deck  
-
-<img width="801" height="670" alt="image" src="https://github.com/user-attachments/assets/79bc2146-d76e-49fa-950f-3d5003811389" />
-
-*Figure 10: Tools Used*
 
 ---
 

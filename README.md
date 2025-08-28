@@ -141,7 +141,7 @@ Our team worked on the following:
 
 ---
 
-## 6. Outcomes 
+## 6. Team Outcomes 
 
 - 📋 Built a complete BA toolkit (Business Case → SRS)  
 - 🔗 Ensured end-to-end traceability from business need → system design  

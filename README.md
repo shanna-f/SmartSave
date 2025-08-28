@@ -95,7 +95,7 @@ Our team worked on the following:
 ## 3. My Approach & Contributions 
 
 - 📊 **Tracking**: Built an Excel status tracker (deliverables, due dates, owners, progress).  
-- 📚 **Research**: Explored templates & created custom docs (URD, SRS).  
+- 📚 **Research**: Explored templates & created custom docs (BRD, SRS).  
 - 🤝 **Collaboration**: Used WhatsApp for async updates & support (since team availability varied).  
 - 💡 **AI Support**: Leveraged ChatGPT to speed up template creation & analysis.  
 - 📌 **Preparation**: Planned agendas, set objectives for meetings, and facilitated discussions.

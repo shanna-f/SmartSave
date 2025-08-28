@@ -92,13 +92,16 @@ Our team worked on the following:
 
 ---
 
-## 3. My Approach  
+## 3. My Approach & Contributions 
 
 - 📊 **Tracking**: Built an Excel status tracker (deliverables, due dates, owners, progress).  
 - 📚 **Research**: Explored templates & created custom docs (URD, SRS).  
 - 🤝 **Collaboration**: Used WhatsApp for async updates & support (since team availability varied).  
 - 💡 **AI Support**: Leveraged ChatGPT to speed up template creation & analysis.  
-- 📌 **Preparation**: Planned agendas, set objectives for meetings, and facilitated discussions.  
+- 📌 **Preparation**: Planned agendas, set objectives for meetings, and facilitated discussions.
+- 📑 **Requirements**: Requirements breakdown from business → user → system.
+- 🧩 **Traceability**: Ensured traceability across deliverables (BRD → URD → SRS).
+- 🖼️ **Visuals**: Created visuals (flows, journeys, mockups) that clarified user needs and solutions.
 
 <img width="1543" height="895" alt="image" src="https://github.com/user-attachments/assets/84bb5d47-6a50-486f-b397-97cb17dc73fa" />
 

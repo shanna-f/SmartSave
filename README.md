@@ -126,7 +126,7 @@ Our team worked on the following:
 - Excel / Google Sheets – documentation & tracking  
 
 **🎨 Visualization & Design**  
-- Draw.io – process flows, use case diagrams  
+- Draw.io – process flows  
 - Canva – user journey maps, screen mockups  
 - PowerPoint – presentation deck  
 

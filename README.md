@@ -1,5 +1,13 @@
 # 🧩 Team Case Study: SmartSave Digital Savings & Budgeting App  
 
+
+| Title | Preview |
+|-------|---------|
+| **SmartSave Case Study** | <img src="images/smartsave-thumbnail.png" width="300"/> |
+
+
+
+
 ## 1. Project Context  
 This team project ran for **6 weeks** from July 12 - Aug 23, 2025.
 It was hosted by *The Business Analysis Circle*.  

@@ -160,6 +160,7 @@ Our team worked on the following:
 ✨ *SmartSave was more than just a case study. It was a hands-on experience applying the full range of BA skills, from business analysis foundations to system definition and traceability.*  
 
 Read about it on LinkedIn:
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/shanna-fillmore_baportfolio-businessanalysiscircle-businessanalyst-activity-7367198041084227584-oXs5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAKOgYABGN0oO9ECDTrjLJy55qBdoAgvXMY)
 
 ---

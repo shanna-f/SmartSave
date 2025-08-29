@@ -1,8 +1,7 @@
 # 🧩 Team Case Study: SmartSave Digital Savings & Budgeting App  
 
 
-| Title | Preview |
-|-------|---------|
+
 | **SmartSave Case Study** | <img src="images/smartsave-thumbnail.png" width="300"/> |
 
 

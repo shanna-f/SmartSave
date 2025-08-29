@@ -1,6 +1,6 @@
 # 🧩 Team Case Study: SmartSave Digital Savings & Budgeting App  
 
-<img width="100" alt="image" src="https://github.com/user-attachments/assets/393fb353-5184-497e-8568-97182e748db7" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/393fb353-5184-497e-8568-97182e748db7" />
 
 
 ## 1. Project Context  
